@@ -6,10 +6,6 @@
       {
         "name": "API_SERVER",
         "value": ""
-      },
-      {
-        "name": "DEVMODE",
-        "value": "true"
       }
     ]
   }
